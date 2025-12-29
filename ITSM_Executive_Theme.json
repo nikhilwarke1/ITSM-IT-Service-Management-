@@ -1,0 +1,34 @@
+{
+  "name": "ITSM Executive Theme",
+  "background": "#EAF2F8",
+  "foreground": "#0F172A",
+  "tableAccent": "#2563EB",
+  "dataColors": [
+    "#2563EB",
+    "#0D9488",
+    "#16A34A",
+    "#DC2626",
+    "#9333EA",
+    "#F59E0B"
+  ],
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontSize": 13,
+            "fontFamily": "Segoe UI",
+            "fontWeight": "bold",
+            "color": { "solid": { "color": "#0F172A" } }
+          }
+        ],
+        "background": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
